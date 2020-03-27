@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  mandelbrot.cpp
+d:\richard\研究所\一下\parallel programming\project\code\mandelbrot\mandelbrot\mandelbrot.cpp(82): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mandelbrot.vcxproj -> D:\Richard\研究所\一下\Parallel Programming\Project\Code\mandelbrot\Debug\mandelbrot.exe

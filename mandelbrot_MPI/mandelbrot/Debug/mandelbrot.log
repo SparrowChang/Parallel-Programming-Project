@@ -1,0 +1,7 @@
+﻿  pch.cpp
+c1xx : warning C4199: 不支援 C++/CLI、C++/CX 或 OpenMP 的兩階段名稱查閱; 請使用 /Zc:twoPhase-
+  mandelbrot.cpp
+c1xx : warning C4199: 不支援 C++/CLI、C++/CX 或 OpenMP 的兩階段名稱查閱; 請使用 /Zc:twoPhase-
+d:\richard\研究所\一下\parallel programming\project\code\mandelbrot_mpi\mandelbrot\mandelbrot.cpp(85): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\richard\研究所\一下\parallel programming\project\code\mandelbrot_mpi\mandelbrot\mandelbrot.cpp(62): warning C4101: 'y': 未參考的區域變數
+  mandelbrot.vcxproj -> D:\Richard\研究所\一下\Parallel Programming\Project\Code\mandelbrot_MPI\Debug\mandelbrot.exe
